@@ -1,0 +1,1 @@
+Just check `generate_sheet.sh`.
