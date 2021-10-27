@@ -1,3 +1,3 @@
-python main.py 7 14 9 -qrsize 2.7 -output small_but_tall.pdf
-python main.py 9 10 9 -qrsize 2.7 -output squareish.pdf
-python main.py 15 8 8 -qrsize 2.7 -output wide.pdf
+python main.py 60 140 95 -qrsize 2.8 -output small_but_tall.pdf
+python main.py 90 110 90 -qrsize 2.8 -output square.pdf
+python main.py 200 80 105 -qrsize 2.8 -output wide.pdf
